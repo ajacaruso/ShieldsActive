@@ -1,4 +1,4 @@
 ShieldsActive
 =============
 
-ShieldActive - iOS Spritekit Tutorial Project
+iOS Spritekit Tutorial Project
